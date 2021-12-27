@@ -1,7 +1,9 @@
 ### Hi there 👋
 ---
 <img align="left" alt="CMMhero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CMMhero&show_icons=true&hide_border=true" />
-[![Discord Bots](https://top.gg/api/widget/692651925451047013.svg)(https://top.gg/bot/692651925451047013)
+<a href="https://top.gg/bot/692651925451047013">
+  <img src="https://top.gg/api/widget/692651925451047013.svg">
+</a>
 <!--
 **CMMhero/CMMhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
