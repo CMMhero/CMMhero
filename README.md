@@ -1,8 +1,5 @@
 ### Hi there 👋
 ---
-<a href="https://discord.com/users/361365554860392461">
- <img src="https://lanyard.cnrad.dev/api/361365554860392461?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
-</a>
 
 <img align="left" alt="CMMhero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CMMhero&show_icons=true&hide_border=true" />
 <a href="https://top.gg/bot/692651925451047013">
