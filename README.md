@@ -17,6 +17,10 @@
   <a href="https://top.gg/bot/692651925451047013"><img src="https://top.gg/api/widget/692651925451047013.svg"></a>
 </p>
 
+<div>
+<img align="center" width="512" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
+</div>
+
 ## 📊 Stats
 <div align="left">
 <img align="left" alt="CMMhero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CMMhero&show_icons=true&hide_border=true&theme=dracula" />
@@ -24,10 +28,6 @@
 <br />
 </div>
 
-## 😂 Random Meme
-<div>
-<img align="center" width="512" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
-</div>
 
 <!--
 **CMMhero/CMMhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
