@@ -26,7 +26,7 @@
 
 ## 😂 Random Meme
 <div>
-<img align="center" width="512" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img align="center" width="512" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
 </div>
 
 <!--
