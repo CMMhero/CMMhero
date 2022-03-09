@@ -12,6 +12,8 @@
 
 ## 📊 Stats
 <img align="left" alt="CMMhero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CMMhero&show_icons=true&hide_border=true&theme=dracula" />
+
+## 🌱 Projects
 <a href="https://top.gg/bot/692651925451047013">
   <img src="https://top.gg/api/widget/692651925451047013.svg">
 </a>
