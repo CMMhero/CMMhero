@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CMMhero</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+code&size=24&color=DD6387&background=282A3600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+CMMhero!)](https://git.io/typing-svg)
 
 ## ⭐ Socials
 <p align="left">
