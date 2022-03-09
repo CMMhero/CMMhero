@@ -17,7 +17,8 @@
   <a href="https://top.gg/bot/692651925451047013"><img src="https://top.gg/api/widget/692651925451047013.svg"></a>
 </p>
 
-<div>
+## 😂
+<div align="center">
 <img align="center" width="512" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
 </div>
 
