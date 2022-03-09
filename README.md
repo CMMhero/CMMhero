@@ -18,10 +18,10 @@
 </p>
 
 ## 📊 Stats
-<p align="left">
+<div align="left">
 <img align="left" alt="CMMhero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CMMhero&show_icons=true&hide_border=true&theme=dracula" />
 <img align="left" alt="CMMhero's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMMhero&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true" />
-</p>
+</div>
 
 <div>
 <img align="center" width="256" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
