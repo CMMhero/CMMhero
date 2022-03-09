@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm CMMhero</h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&size=24&color=DD6387&background=282A3600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+CMMhero!" />
+<!-- <h1 align="center">Hi 👋, I'm CMMhero</h1> -->
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&size=24&color=DD6387&background=282A3600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+CMMhero!" />
+</p>
 
 ## ⭐ Socials
 <p align="left">
