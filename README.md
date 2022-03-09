@@ -19,7 +19,7 @@
 
 ## 
 <div align="center">
-<img align="center" width="512" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
+<img align="center" width="400" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
 </div>
 
 ## 📊 Stats
