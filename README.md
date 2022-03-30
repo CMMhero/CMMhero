@@ -17,11 +17,6 @@
   <a href="https://top.gg/bot/692651925451047013"><img src="https://top.gg/api/widget/692651925451047013.svg"></a>
 </p>
 
-## 
-<div align="center">
-<img align="center" width="400" src='https://random-memer.herokuapp.com/' title="Meme" alt="ayy">
-</div>
-
 ## 📊 Stats
 <div align="left">
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=CMMhero&show_icons=true&hide_border=true&theme=dracula" />
