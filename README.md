@@ -1,12 +1,11 @@
 <!-- <h1 align="center">Hi 👋, My Name is Christopher Matthew Marvelio</h1> -->
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&size=24&color=DD6387&background=282A3600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+CMMhero!" />
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&size=24&color=DD6387&background=282A3600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+My+name+is+Christopher+Matthew+Marvelio!" />
 </p>
 
 ## ⭐ Socials
 <p align="left">
 <a href="https://instagram.com/cmmhero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cmmhero" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cmmhero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cmmhero" height="30" width="40" /></a>
-  <a href="https://discord.com/users/361365554860392461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cmmhero" height="30" width="40" /></a>
+<a href="https://discord.com/users/361365554860392461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cmmhero" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Languages & Tools (Currently Learning)
