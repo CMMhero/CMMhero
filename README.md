@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, My Name is Christopher Matthew Marvelio</h1> -->
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&size=24&color=DD6387&background=282A3600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+My+name+is+Christopher+Matthew+Marvelio!" />
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&pause=1000&width=435&lines=Hi!;My+name+is+Christopher+Matthew+Marvelio" />
 </p>
 
 ## ⭐ Socials
