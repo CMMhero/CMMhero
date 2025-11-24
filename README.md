@@ -1,7 +1,7 @@
 <!-- Animated header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=7D84FF&center=true&vCenter=true&width=600&lines=👋🏼+Hi+There!;Christopher+Matthew+Marvelio;Full+Stack+Developer;Building+Web+%7C+Mobile+%7C+Desktop+Apps;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=7D84FF&center=true&vCenter=true&width=600&lines=Christopher+Matthew+Marvelio;Full+Stack+Developer;Building+Web+%7C+Mobile+%7C+Desktop+Apps;" alt="Typing SVG" />
 </h1>
 <p align="center">
   <b>📍 Tangerang, Indonesia</b>
