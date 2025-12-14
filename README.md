@@ -42,21 +42,16 @@ I'm a **Full Stack Developer** with experience building applications across **we
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmmhero&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmmhero&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  
+  <img src="/github-metrics.svg" alt="Metrics">
 </p>
 
 ---
 
 ## 🧩 My Interests
 
-* 🖥️ **Technology**
-* 🍥 **Anime**
-* 🎮 **Gaming**
+- 🖥️ **Technology**
+- 🍥 **Anime**
+- 🎮 **Gaming**
 
 ---
 
