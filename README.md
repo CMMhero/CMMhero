@@ -21,14 +21,14 @@ I'm a **Full Stack Developer** with experience building applications across **we
 
 ## 🛠 Tech Stack
 
-**Frontend:** React • Next.js • React Native • TypeScript • TailwindCSS
+**Frontend:** React • Next.js • React Native • TailwindCSS
 <br/>
-**Backend:** Node.js • Express • REST & WebSocket APIs
+**Backend:** Node.js • Bun • Express • Laravel
 <br/>
-**Databases:** Supabase • MongoDB • MySQL
+**Databases:** MongoDB • MySQL • PostgreSQL
 
 ---
-
+<!-- 
 ## 🎧 Spotify — Now Playing
 
 <p align="center">
@@ -37,21 +37,13 @@ I'm a **Full Stack Developer** with experience building applications across **we
   </a>
 </p>
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
 </p>
-
----
-
-## 🧩 My Interests
-
-- 🖥️ **Technology**
-- 🍥 **Anime**
-- 🎮 **Gaming**
 
 ---
 
@@ -74,7 +66,3 @@ I'm a **Full Stack Developer** with experience building applications across **we
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
----
-
-### ⭐ If you like my work, consider starring a repo!
