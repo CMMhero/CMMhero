@@ -38,14 +38,14 @@ I'm a **Full Stack Developer** with experience building applications across **we
 </p>
 
 --- -->
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
 </p>
 
----
+--- -->
 
 ## 🔗 Socials
 
